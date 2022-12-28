@@ -6,19 +6,18 @@ Dependency
 ```
 npm i -g @nestjs/cli
 ```
-Compile & Execute
-Build
+Build project
 ```
 npm run build
 ```
-Run project with monitoring
+Run project
 ```
 npm start
 ```
 ## Configuration
 
 
-## References
+## References'
 - NestJS [sorce](https://docs.nestjs.com/)
 - Typescript [sorce](https://www.typescriptlang.org/)
 - Typescript CLI [sorce](https://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options)
