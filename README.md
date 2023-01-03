@@ -1,18 +1,18 @@
 # REST API with NestJS
 ## Description
 Demostrating REST API written by NestJS.
-## Setup Commands
-Dependency
+## Commands
+Nest CLI Tools
 ```
 npm i -g @nestjs/cli
 ```
-Build project
+Create a project
 ```
-npm run build
+nest new my-project
 ```
-Run project
+Run project as dev env
 ```
-npm start
+npm run start:dev
 ```
 ## Configuration
 
