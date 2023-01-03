@@ -2,21 +2,27 @@
 ## Description
 Demostrating REST API written by NestJS.
 ## Commands
-Nest CLI Tools
-```
-npm i -g @nestjs/cli
-```
-Create a project
-```
-nest new my-project
-```
-Run project as dev env
-```
-npm run start:dev
-```
-## Configuration
+```bash
+# development
+$ npm run start
 
+# watch mode
+$ npm run start:dev
 
+# production mode
+$ npm run start:prod
+```
+Test
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
 ## References'
 - NestJS [sorce](https://docs.nestjs.com/)
 - Typescript [sorce](https://www.typescriptlang.org/)
