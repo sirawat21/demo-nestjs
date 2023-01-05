@@ -1,4 +1,4 @@
-# REST API with NestJS
+# NestJS REST API
 ## Description
 Demostrating REST API written by NestJS.
 ## Commands
