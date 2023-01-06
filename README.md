@@ -1,6 +1,6 @@
 # NestJS REST API
 ## Description
-Demostrating REST API written by NestJS.
+Demostrating REST API based on NestJS framework.
 ## Commands
 ```bash
 # development
